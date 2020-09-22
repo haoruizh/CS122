@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+c:\users\madei\desktop\cpts 122\queue\queue\stdafx.cpp(11): error C2572: 'Node::Node': redefinition of default argument: parameter 1
+  c:\users\madei\desktop\cpts 122\queue\queue\stdafx.h(24): note: see declaration of 'Node::Node'
+c:\users\madei\desktop\cpts 122\queue\queue\stdafx.cpp(17): error C2572: 'Queue::Queue': redefinition of default argument: parameter 1
+  c:\users\madei\desktop\cpts 122\queue\queue\stdafx.h(35): note: see declaration of 'Queue::Queue'
+c:\users\madei\desktop\cpts 122\queue\queue\stdafx.cpp(17): error C2572: 'Queue::Queue': redefinition of default argument: parameter 2
+  c:\users\madei\desktop\cpts 122\queue\queue\stdafx.h(35): note: see declaration of 'Queue::Queue'

@@ -1,0 +1,4 @@
+[0309/095403:INFO:(0)] WebCore is now online.
+[0309/095403:INFO:(0)] Running Awesomium 1.7.5.1
+[0309/095407:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server www.cougsincyber.org:443 failed; NSS error code -5938, net_error -107
+[0309/095407:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server www.cougsincyber.org:443 failed; NSS error code -5938, net_error -107

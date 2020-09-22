@@ -1,0 +1,9 @@
+﻿  Source1.cpp
+c:\users\madei\desktop\c++file\copyconstroctor\copyconstroctor\source1.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\madei\desktop\c++file\copyconstroctor\copyconstroctor\source1.cpp(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\madei\desktop\c++file\copyconstroctor\copyconstroctor\source1.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  copyconstroctor.vcxproj -> C:\Users\madei\Desktop\c++file\copyconstroctor\Debug\copyconstroctor.exe
+  copyconstroctor.vcxproj -> C:\Users\madei\Desktop\c++file\copyconstroctor\Debug\copyconstroctor.pdb (Full PDB)

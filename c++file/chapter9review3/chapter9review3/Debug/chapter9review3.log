@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\madei\desktop\c++file\chapter9review3\chapter9review3\source.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\madei\desktop\c++file\chapter9review3\chapter9review3\source.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\madei\desktop\c++file\chapter9review3\chapter9review3\source.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  chapter9review3.vcxproj -> C:\Users\madei\Desktop\c++file\chapter9review3\Debug\chapter9review3.exe
+  chapter9review3.vcxproj -> C:\Users\madei\Desktop\c++file\chapter9review3\Debug\chapter9review3.pdb (Full PDB)

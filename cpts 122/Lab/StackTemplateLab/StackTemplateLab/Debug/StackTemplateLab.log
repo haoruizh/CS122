@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\madei\desktop\cpts 122\lab\stacktemplatelab\stacktemplatelab\stack.h(69): warning C4715: 'Stack<int>::push': not all control paths return a value
+  StackTemplateLab.vcxproj -> C:\Users\madei\Desktop\cpts 122\Lab\StackTemplateLab\Debug\StackTemplateLab.exe
+  StackTemplateLab.vcxproj -> C:\Users\madei\Desktop\cpts 122\Lab\StackTemplateLab\Debug\StackTemplateLab.pdb (Full PDB)

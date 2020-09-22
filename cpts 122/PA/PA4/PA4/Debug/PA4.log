@@ -1,0 +1,9 @@
+﻿  PA4.cpp
+c:\users\madei\desktop\cpts 122\pa\pa4\pa4\pa4.cpp(17): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  fitnessapp.cpp
+c:\users\madei\desktop\cpts 122\pa\pa4\pa4\fitnessapp.cpp(92): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Exercise.cpp
+c:\users\madei\desktop\cpts 122\pa\pa4\pa4\exercise.cpp(58): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Dietplan.cpp
+c:\users\madei\desktop\cpts 122\pa\pa4\pa4\dietplan.cpp(63): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
